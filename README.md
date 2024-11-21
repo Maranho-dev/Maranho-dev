@@ -1,7 +1,7 @@
 # Olá, eu sou o Matheus! 👋 
 
 
-<div> 
+<div display="inline-block"> 
   <img height="180em" alt="Git-stats" src="https://github-readme-stats.vercel.app/api?username=Maranho070406&show_icons=true&count_private=true&hide=contribs&theme=dark">
   <img height="180em" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maranho070406&layout=compact&theme=dark">
 </div>
