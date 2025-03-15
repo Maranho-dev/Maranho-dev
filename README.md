@@ -13,7 +13,7 @@
   <img align="center" alt="matheus.js" height="40 "width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="matheus.ts" height="40 "width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="matheus.git" height="40 "width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="matheus.node" height="40 "width="50" src="https://github.com/user-attachments/assets/d5d97d8f-f882-45ad-9585-20ddcc943d41" />
+  <img align="center" alt="matheus.node" height="40 "width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" />
   <img align="center" alt="matheus.sql" height="40 "width="50" src="https://github.com/user-attachments/assets/c8107af4-be59-48ef-aecc-5c9ca678f516" />
           
   
