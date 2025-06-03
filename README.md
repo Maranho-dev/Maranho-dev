@@ -27,4 +27,4 @@
 
 🧠 Estudo programaçao á 2 anos, e busco sempre aprender novas linguagens e tecnologias
 
-📖 Atualmente cursando Sistemas de Informaçao no ENIAC e buscando estagio na area 
+📖 Atualmente cursando Sistemas de Informaçao no ENIAC 
