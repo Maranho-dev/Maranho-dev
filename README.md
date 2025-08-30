@@ -18,6 +18,7 @@
   <img align="center" alt="matheus.git" height="40 "width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="matheus.node" height="40 "width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="matheus.sql" height="40 "width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="center" alt="matheus.angular" height="40 "width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
           
   
 </div>
@@ -25,6 +26,6 @@
 ## Sobre mim :
 
 
-🧠 Estudo programaçao á 2 anos, e busco sempre aprender novas linguagens e tecnologias
+🧠 Estudo programaçao, e busco sempre aprender novas linguagens e tecnologias
 
 📖 Atualmente cursando Sistemas de Informaçao no ENIAC 
