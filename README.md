@@ -17,6 +17,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,nodejs,angular,java,mysql" />
   </a>
 </p>
+
+
 ## Sobre mim :
 
 
