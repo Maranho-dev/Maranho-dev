@@ -1,17 +1,20 @@
-# Olá, eu sou o Matheus! 👋 
 
+<p align="center">
+# Olá, eu sou o Matheus! 👋 
+</p>
 
 <div> 
   <img height="180em"  alt="Git-stats" src="https://github-readme-stats.vercel.app/api?username=Maranho-dev&show_icons=true&count_private=true&hide=contribs&theme=dark&include_all_commits=true">
   <img height="180em" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maranho-dev&layout=compact&theme=dark">
 </div>
 
-
+<p align="center">
 ## 🛠 Habilidades/Linguagens
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,java,nodejs,mysql,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,nodejs,angular,java,mysql" />
   </a>
 </p>
 ## Sobre mim :
