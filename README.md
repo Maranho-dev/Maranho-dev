@@ -24,4 +24,4 @@
 
 🧠 Estudo programaçao, e busco sempre aprender novas linguagens e tecnologias
 
-📖 Atualmente cursando Sistemas de Informaçao no ENIAC 
+📖 Atualmente cursando Sistemas de Informaçao 
