@@ -4,8 +4,8 @@
 
 
 <div> 
-  <img height="180em" width="65%"  alt="Git-stats" src="https://github-readme-stats.vercel.app/api?username=Maranho-dev&show_icons=true&count_private=true&hide=contribs&theme=dark&include_all_commits=true">
-  <img height="180em"  width="45%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maranho-dev&layout=compact&theme=dark">
+  <img height="180em"  width="100%"  alt="Git-stats" src="https://github-readme-stats.vercel.app/api?username=Maranho-dev&show_icons=true&count_private=true&hide=contribs&theme=dark&include_all_commits=true">
+  <img height="180em"  width="100%" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maranho-dev&layout=compact&theme=dark">
 </div>
 
 
