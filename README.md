@@ -5,7 +5,7 @@
 
 <div> 
   <img height="180em"   alt="Git-stats" src="https://github-readme-stats.vercel.app/api?username=Maranho-dev&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=vue&include_all_commits=true">
-  <img height="180em"  alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maranho-dev&layout=compact&theme=default&hide=java&title_color=008000">
+  <img height="180em"  alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maranho-dev&layout=compact&theme=default&hide=java&title_color=5CE65C">
 </div>
 
 
